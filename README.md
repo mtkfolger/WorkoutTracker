@@ -7,7 +7,7 @@
 **Screenshot(s) of Deployed Application**
 
 **Link to Deployed Application**
-To view the deployed application, <a href="https://www.google.com" target=blank>cick here!</a>
+To view the deployed application, <a href="https://www.google.com" target="_blank">cick here!</a>
 
 **Table of Contents** 
 >[Installation](#Installation)
