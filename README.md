@@ -5,9 +5,9 @@
 >This application allows users to view, create and track daily workouts. Users can log multiple excercises, their type, weight, sets, reps and duration for each workout. For cardio excercises, distance traveled can also be added. 
 
 **Screenshot(s) of Deployed Application**
-
+>
 **Link to Deployed Application**
-To view the deployed application, <a href="https://www.google.com" target=blank>cick here!</a>
+>To view the deployed application, <a href="https://www.google.com" target="_blank">cick here!</a>
 
 **Table of Contents** 
 >[Installation](#Installation)
