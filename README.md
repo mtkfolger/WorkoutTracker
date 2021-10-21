@@ -1,4 +1,4 @@
-#Workout Tracker
+# Workout Tracker
 ---
 
 **Description**
@@ -11,10 +11,15 @@ To view the deployed application, <a href="https://www.google.com" target=blank>
 
 **Table of Contents** 
 >[Installation](#Installation)
+>
 >[Usage](#Usage)
+>
 >[License](#License)
+>
 >[Contribution Guidelines](#Contribution)
+>
 >[Tests](#Tests)
+>
 >[Questions](#Questions)
 
 **Installation Instructions** <a name="Installation"></a>
